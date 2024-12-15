@@ -3,8 +3,9 @@
 ## Description
 This project is a little demo for a Rogue-like game made in Python that I started during my last year in high school.
 
-Unfortunately, I didn't have the time to finish it, but it is a "bit" playable.  
-Also, I am currently working on a remake of this project on Unity to finally finish it and make it fully playable.
+Unfortunately, I didn't have the time to finish it, so it is just a "bit" playable.  
+
+But I am currently working on a remake of this project on Unity to finally finish it and make it fully playable.
 
 ## How to use
 1) Execute 'main.py'
