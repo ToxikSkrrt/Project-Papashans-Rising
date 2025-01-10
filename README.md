@@ -1,4 +1,4 @@
-# Project - Papashan's Rising
+# Project : Papashan's Rising
 
 ## Description
 This project is a little demo for a Rogue-like game made in Python that I started during my last year in high school.
