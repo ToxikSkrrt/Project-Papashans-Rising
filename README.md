@@ -7,7 +7,7 @@ Unfortunately, I didn't have the time to finish it, so it is just a "bit" playab
 
 But I am currently working on a remake of this project on Unity to finally finish it and make it fully playable.
 
-## How to use
+## How to play
 1) Execute `main.py`
 2) When in game :
    - ZQSD : directional inputs
